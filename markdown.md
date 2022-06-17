@@ -1,7 +1,3 @@
----
-title: Página prueba
----
-
 # Bon dia
 
 ## Què tal?
