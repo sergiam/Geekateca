@@ -1,15 +1,16 @@
 ---
 layout: default
-title: EXTERNAL-LANGUAGES
 author: BCNGeeks
 date: 21th June 2022
 ---
 
 # HTML EXTERNAL LANGUAGES
+
 ## TABLE OF CONTENT
 
 - [HTML EXTERNAL LANGUAGES](#html-external-languages)
   - [TABLE OF CONTENT](#table-of-content)
+  - [INDEX](#index)
   - [CSS](#css)
     - [INTRODUCTION](#introduction)
     - [ID](#id)
@@ -26,6 +27,9 @@ date: 21th June 2022
   - [JAVASCRIPT](#javascript)
     - [SCRIPT](#script)
     - [EXAMPLE](#example-4)
+---
+
+## [INDEX](./INDEX.md)
 
 ---
 

@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Formatting pt2
 author: BCNGeeks
 date: 21th June 2022
 ---
@@ -11,6 +10,7 @@ date: 21th June 2022
 
 - [HTML FORMATTING PT2](#html-formatting-pt2)
   - [TABLE OF CONTENTS](#table-of-contents)
+  - [INDEX](#index)
   - [CITE TAG](#cite-tag)
     - [EXAMPLE](#example)
   - [CODE TAG](#code-tag)
@@ -29,6 +29,10 @@ date: 21th June 2022
     - [EXAMPLE](#example-7)
   - [PRE TAG](#pre-tag)
     - [EXAMPLE](#example-8)
+
+---
+
+## [INDEX](./INDEX.md)
 
 ---
 
